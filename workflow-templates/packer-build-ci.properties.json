@@ -1,7 +1,7 @@
 {
   "name": "AIS Org Packer build Workflow",
   "description": "Builds all Packer HCL templates that have been modified",
-  "iconName": "example-icon",
+  "iconName": "ardc",
   "categories": [
     "HCL"
   ],

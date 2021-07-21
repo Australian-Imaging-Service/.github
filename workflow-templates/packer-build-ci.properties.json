@@ -1,0 +1,11 @@
+{
+  "name": "AIS Org Packer build Workflow",
+  "description": "Builds all Packer HCL templates that have been modified",
+  "iconName": "example-icon",
+  "categories": [
+    "HCL"
+  ],
+  "filePatterns": [
+    "\.pkr\.hcl$"
+  ]
+}
